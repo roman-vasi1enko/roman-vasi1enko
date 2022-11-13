@@ -1,7 +1,7 @@
 [![Roman's GitHub Banner](./assets/github-header.jpg)](https://roman.vasilenko.co/)
 
 <section align="center">
-    <a href="https://roman.vasilenko.co/" target="_blank">
+    <a href="https://romanvasilenko.co/" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
     <a href="https://twitter.com/romanvasilenko_" target="_blank">
