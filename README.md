@@ -1,5 +1,13 @@
 [![Roman's GitHub Banner](./assets/github-header.jpg)](https://roman.vasilenko.co/)
 
+I'm Roman, a full-stack software developer passionate about SaaS, DeFi, and Web3 technologies. My obsession with learning and experimenting took me places. I lived in 4 different countries and 5 cities, launched a few good and not so much startups, worked in digital marketing, tried biohacking and sleep deprivation, and many more.
+
+Want to know more about me? [⚡ Check out my portfolio.](https://romanvasilenko.co/) 
+
+Want to learn from me? [💎 Check out my dev blog.](https://blog.romanvasilenko.co/)
+
+<br>
+
 <section align="center">
     <a href="https://romanvasilenko.co/" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
@@ -17,13 +25,7 @@
 
 <br>
 
-I'm Roman, a full-stack software developer with a deep interest in Web3 and SaaS who have held different roles in startups and worked at marketing agencies to build full-stack web products and push them to markets.
-
-Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/)
-
-<br>
-
-## 🚀 Projects
+## 🚀 My Projects
 
 <table>
   
@@ -101,7 +103,7 @@ Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/
 
 <br>
 
-## 💼  Technologies
+## 💼  Tech I use
 
 <br>
 
@@ -110,7 +112,7 @@ Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/
 
 <br>
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 <br>
 
