@@ -88,11 +88,11 @@ Want to learn from me? [💎 Check out my dev blog.](https://blog.romanvasilenko
     <br>
       <h3 align="center">Rocketlabs.co</h3>
         <a target="_blank" href="https://rocketlabs.co/">
-          <img src="assets/rocketlabs.gif" width="100%" alt="Matching Cards" style="border-radius:10px"/>
+          <img src="assets/rocketlabs.gif" width="100%" alt="Agency Website" style="border-radius:10px"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://rocketlabs.co/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
