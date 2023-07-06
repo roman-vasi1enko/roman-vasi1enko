@@ -68,7 +68,7 @@ Want to know more about me? [Check out my portfolio.](https://roman.vasilenko.co
     <br>
       <h3 align="center">Portfolio Page</h3>
         <a target="_blank" href="https://github.com/roman-vasi1enko/portfolio-website">
-          <img src="assets/romanvasilenkoco2.gif" width="100%" alt="Portfolio" style="border-radius:10px"/>
+          <img src="assets/romanvasilenkoco.gif" width="100%" alt="Portfolio" style="border-radius:10px"/>
         </a>
       <br />
         <p align="center">
