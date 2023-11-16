@@ -1,7 +1,7 @@
-[![Roman's GitHub Banner](./assets/github-header.png)](https://roman.vasilenko.co/)
+[![Roman's GitHub Banner](./assets/github-header.png)](https://romanvasilenko.co/)
 
 <section align="center">
-    <a href="https://roman.vasilenko.co/" target="_blank">
+    <a href="https://romanvasilenko.co/" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
     <a href="https://twitter.com/romanvasilenko_" target="_blank">
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/roman--vasilenko/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://roman.vasilenko.co/" target="_blank">
+    <a href="https://romanvasilenko.co/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=roman-vasi1enko&style=for-the-badge"/>
     </a>
 </section>
@@ -19,7 +19,7 @@
 
 I'm Roman, a full-stack software developer with a deep interest in Web3 and SaaS who have held different roles in startups and worked at marketing agencies to build full-stack web products and push them to markets.
 
-Want to know more about me? [Check out my portfolio.](https://roman.vasilenko.co/)
+Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/)
 
 <br>
 
@@ -75,7 +75,7 @@ Want to know more about me? [Check out my portfolio.](https://roman.vasilenko.co
   <a href="https://github.com/roman-vasi1enko/portfolio-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://roman.vasilenko.co/" target="_blank">
+  <a href="https://romanvasilenko.co/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=css3&logo-color=white"/>
   </a>
       </p>
@@ -104,10 +104,12 @@ Want to know more about me? [Check out my portfolio.](https://roman.vasilenko.co
 <br>
 
 ## 💼  Technologies
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
 
-<br>
+### Backend
+![My Skills](https://skillicons.dev/icons?i=solidity,nodejs,mongodb,git)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,wordpress,git)
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
 <br>
