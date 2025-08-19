@@ -1,25 +1,21 @@
 [![Roman's GitHub Banner](./assets/github-header.png)](https://romanvasilenko.co/)
 
 <section align="center">
-    <a href="https://romanvasilenko.co/" target="_blank">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a>
     <a href="https://twitter.com/romanvasilenko_" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/roman--vasilenko/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://romanvasilenko.co/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=roman-vasi1enko&style=for-the-badge"/>
     </a>
 </section>
 
 <br>
 
-I'm Roman, a full-stack software developer with a deep interest in Web3 and SaaS who have held different roles in startups and worked at marketing agencies to build full-stack web products and push them to markets.
-
-Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/)
+I'm Roman, an **AdTech professional with product management and web development skills**.  
+I’ve worked across startups and marketing agencies—leading advertising operations, managing digital products, and building web solutions to bring them to market.
 
 <br>
 
@@ -108,16 +104,4 @@ Want to know more about me? [Check out my portfolio.](https://romanvasilenko.co/
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
 
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=solidity,nodejs,mongodb,git)
-
-<!-- https://github.com/tandpfun/skill-icons#readme -->
-
-<br>
-
-## 📈 GitHub Stats
-
-<br>
-
-<div>
-    <img style="border-radius:20px;margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com?user=roman-vasi1enko&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0C1117&fire=DD4B1B"/>
-</div>
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,git)
