@@ -1,21 +1,13 @@
-[![Roman's GitHub Banner](./assets/github-header.png)](https://romanvasilenko.co/)
-
 <section align="center">
-    <a href="https://twitter.com/romanvasilenko_" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/roman--vasilenko/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=roman-vasi1enko&style=for-the-badge"/>
     </a>
 </section>
 
 <br>
 
-I'm Roman, an **AdTech professional with product management and web development skills**.  
-I’ve worked across startups and marketing agencies—leading advertising operations, managing digital products, and building web solutions to bring them to market.
+I'm Roman, an **AdTech professional with product management and software development skills**.  
+I’ve worked across startups and marketing agencies - leading display advertising operations, managing digital products, and building web solutions to automate operations and unlock new business value with AI.
 
 <br>
 
